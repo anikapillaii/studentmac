@@ -4,12 +4,12 @@ title: Student Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+**ABOUT ME:**
 
-## Overview of Hacks, Study and Tangibles
+Hi! My name is Anika Pillai and I am a Senior at Del Norte High School. Some of my passions include: golfing, baking, reading, and listening to music. I have one dog named Simba and he is the cutest thing ever.
+
+**HERE ARE SOME PICTURES TO GET TO KNOW ME**
+
 Blogging in GitHub pages is a way to learn and code at the same time. 
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+<img src="images/IMG_5663.jpg">
